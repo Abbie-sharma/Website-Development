@@ -1,2 +1,2 @@
-# legendary-happiness
-A dynamic and interactive website
+# Web-Development
+A dynamic and interactive website for an International Conference on AI & Speech Tech
